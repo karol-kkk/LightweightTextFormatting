@@ -11,5 +11,5 @@
 <li>2010: On February 27, Block won the Rally in the 100 Acre Wood (Rally America) for the 5th consecutive time. This broke the record held by John Buffum.</li>
 </ul>
 <p>Learn more here:</p>
-<a href="https://en.wikipedia.org/wiki/Ken_Block">Wikipedia</a>
+<a href="https://en.wikipedia.org/wiki/Ken_Block">Wikipedia</a><br>
 <a href="https://www.otomoto.pl/news/ken-block">Otomoto</a>

@@ -22,7 +22,7 @@
 <p>Top three laptop manufacturers.</p>
 <ul>
 <li>Acer</li>
-<li>Apple<li>
+<li>Apple</li>
 <li>Dell</li>
 </ul>
 </body>

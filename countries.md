@@ -2,11 +2,11 @@
 
 <table>
     <tr>
-        <th>Country</th>
-        <th>Capital</th>
-        <th>Currency</th>
-        <th>Currency symbol</th>
-        <th>Population</th>
+        <th><b>Country</b></th>
+        <th><b>Capital</b></th>
+        <th><b>Currency</b></th>
+        <th><b>Currency symbol</b></th>
+        <th><b>Population</b></th>
     </tr>
     <tr>
         <td>United States</td>
